@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Korean Venture Capital Association's Asset Management Information System
-- 🌱 I’m currently learning Kotlin and FP 
+- 🌱 I’m currently learning Kotlin and FP
+- 🎯 I'm currently focusing on TDD and DDD
 - 👯 I’m looking to collaborate on building a working business system adopting Domain Driven Design, especially in finance domain
 
 ### Latest post
