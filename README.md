@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Venture Capital Projects
-- 🌱 I’m currently learning Kotlin, TDD and DDD
-- 🎯 I'm currently focusing on **Reinventing the Wheel**
+- 🌱 I’m currently into Kotlin, TDD and DDD
 - 👯 I’m looking to collaborate on building a working business system adopting Domain Driven Design, especially in finance domain
 
 ### Latest post
