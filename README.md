@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [Your Name]
+### 👋 Hi, I'm Aryumka
 
 I'm a developer with a background in finance and product management, passionate about building software that delivers real value to users. I care deeply about clean architecture, domain-driven design (DDD), and functional programming — not just as buzzwords, but as practical tools to model complexity and solve meaningful problems.
 
