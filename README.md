@@ -3,7 +3,7 @@
 Used to plan products. Now I build them.  
 Finance background + curious brain = dev who actually asks *why*, not just *how*.
 
-I write backend code in Kotlin, think in DDD, and occasionally talk to my computer when debugging (it helps, I swear).  
+I write backend code in Kotlin, think in DDD.
 Love turning messy domains into clean logic. Also love coffee.
 
 Currently mixing functional programming with real-world backend chaos.  
