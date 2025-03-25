@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Aryumka
 
-I used to be a product manager in finance.  
-Now I write code — mostly Kotlin, mostly backend.
+Used to plan products. Now I build them.  
+Finance background + curious brain = dev who actually asks *why*, not just *how*.
 
 I care about writing code that’s easy to understand and hard to mess up.  
 Love diving into complex problems and making things feel simple.
