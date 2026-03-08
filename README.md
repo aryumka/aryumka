@@ -2,7 +2,7 @@
 
 
 I think about software before I write it.
-Not just how it works — but why it exists, and who it's for.
+Not just how it works - but why it exists, and who it's for.
 Finance background. Moved into product, then into code.
 Each step taught me the same thing: the hard part is never technical.
 
