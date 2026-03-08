@@ -1,4 +1,6 @@
 👋 Hi, I'm Aryumka
+
+
 I think about software before I write it.
 Not just how it works — but why it exists, and who it's for.
 Finance background. Moved into product, then into code.
